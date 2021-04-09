@@ -1,0 +1,22 @@
+primer grid 			1
+añadir columnas 		2
+añadir filas 			3
+cambiar tamaño CF 		4
+espacio columnas 		5
+espacio filas 			6
+añadir espacio facil 		7
+columna cuadricula 		8 
+controlar espaciado		9
+alineado horizontal 		10
+alineado vertical 		11
+alinear todos H 		12
+alinear todos V 		13
+dividir cuadricula		14
+colocar elementos cuadricula	15
+usar area sin plantilla		16
+reducir repeticion 		17
+limitar tamaño minmax 		18
+diseños flexibles 		19
+diseños flexibles auto		20
+consultas diseños receptivos 	21
+cuadriculas-cuadriculas 	22
